@@ -30,7 +30,7 @@ if not st.session_state.enviado:
 
         genero = st.radio(
             "Género",
-            ["Masculino", "Femenino", "Otro"]
+            ["Masculino", "Femenino", "Elle pendeje"]
         )
 
         enviado = st.form_submit_button("Enviar")
